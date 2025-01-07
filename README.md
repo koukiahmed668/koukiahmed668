@@ -18,10 +18,24 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/koukiahmed668/koukiahmed668/output/github-snake.svg" />
 </picture>
 
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br>
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koukiahmed668&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=koukiahmed668&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
