@@ -33,8 +33,14 @@
 
 
 # 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=koukiahmed668&theme=blue_navy&hide_border=false) |
-| -- | -- |
+<table style="margin: 0 auto;">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=koukiahmed668&theme=blue_navy&hide_border=false" width="400" height="200" /></td>
+  </tr>
+</table>
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
