@@ -36,7 +36,7 @@
 <table style="margin: 0 auto;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=koukiahmed668&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=koukiahmed668&theme=blue_navy&hide_border=false" width="400" height="200" /></td>
+    <td><img src="https://github-readme-stats-ahmeds-projects-bea885ef.vercel.app/api?username=koukiahmed668&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" width="400" height="200" /></td>
   </tr>
 </table>
 
